@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T12:13:58 IST" name="Default suite" finished-at="2024-06-19T12:15:00 IST" duration-ms="62067">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T12:13:58 IST" name="Default test" finished-at="2024-06-19T12:15:00 IST" duration-ms="62067">
+      <class name="ust.AppiumAssessment.tests.MainTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:13:58 IST" name="setup" finished-at="2024-06-19T12:14:38 IST" duration-ms="40467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bedTimeOptionClickTest()[pri:1, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:38 IST" name="bedTimeOptionClickTest" finished-at="2024-06-19T12:14:41 IST" duration-ms="2832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bedTimeOptionClickTest -->
+        <test-method is-config="true" signature="screenShots()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:41 IST" name="screenShots" finished-at="2024-06-19T12:14:43 IST" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method signature="getStartedOptionClickTest()[pri:2, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:43 IST" name="getStartedOptionClickTest" finished-at="2024-06-19T12:14:46 IST" duration-ms="3243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartedOptionClickTest -->
+        <test-method is-config="true" signature="screenShots()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:46 IST" name="screenShots" finished-at="2024-06-19T12:14:47 IST" duration-ms="969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method signature="addNewBedTimeTest()[pri:3, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:47 IST" name="addNewBedTimeTest" finished-at="2024-06-19T12:14:51 IST" duration-ms="4426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewBedTimeTest -->
+        <test-method is-config="true" signature="screenShots()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:51 IST" name="screenShots" finished-at="2024-06-19T12:14:52 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method signature="savingNewTimeTest()[pri:4, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:52 IST" name="savingNewTimeTest" finished-at="2024-06-19T12:14:55 IST" duration-ms="3099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingNewTimeTest -->
+        <test-method is-config="true" signature="screenShots()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:55 IST" name="screenShots" finished-at="2024-06-19T12:14:56 IST" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method signature="checkSavedBedTime()[pri:5, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:56 IST" name="checkSavedBedTime" finished-at="2024-06-19T12:14:59 IST" duration-ms="2832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSavedBedTime -->
+        <test-method is-config="true" signature="screenShots()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:59 IST" name="screenShots" finished-at="2024-06-19T12:14:59 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShots -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:ust.AppiumAssessment.tests.MainTests@5ddeb7cb]" started-at="2024-06-19T12:14:59 IST" name="reportFlush" finished-at="2024-06-19T12:15:00 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- ust.AppiumAssessment.tests.MainTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
